@@ -15,3 +15,4 @@ The course consists of several modules covering different topics. Here is an ove
 7. Object Oriented Programming
 8. Functional Programming
 9. Intermediate Algorithm Scripting
+10. JavaScript Algorithms and Data Structures Projects
